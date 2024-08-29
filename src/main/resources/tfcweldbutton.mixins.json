@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.hermitowo.tfcweldbutton.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "tfcweldbutton.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "client.AnvilScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
